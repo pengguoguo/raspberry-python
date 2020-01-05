@@ -14,5 +14,6 @@
 -------------------------------------------
 
 SPI接口方式
+Because CS is connected to CE0, the display is available on SPI port 0;
 
 
